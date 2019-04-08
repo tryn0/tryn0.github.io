@@ -1,0 +1,23 @@
+title: Blog
+description: Blog de tryn0
+
+url: http://github.com/tryn0
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+
+navigation:
+  - title: Inicio
+    url: /index.html
+  - title: Acerca
+    url: /about
+  - title: Contactar
+    url: /contact
+
+social:
+  github: tryn0
