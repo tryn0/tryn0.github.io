@@ -1,4 +1,4 @@
-title: Blog
+title: Blog personal tryn0
 description: Blog personal tryn0
 
 url: http://github.com/tryn0
@@ -8,16 +8,6 @@ permalink: blog/:title/
 
 markdown: kramdown
 highlighter: rouge
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    css_class: 'highlight'
-    span:
-      line_numbers: false
-    block:
-      line_numbers: true
-      start_line: 1
 plugins: [jekyll-paginate]
 paginate: 5
 
