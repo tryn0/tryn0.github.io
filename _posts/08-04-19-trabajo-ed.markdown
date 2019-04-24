@@ -20,7 +20,7 @@ y aparece un nuevo problema: la dependencia (acoplamiento) entre los componentes
 public class A {
   private B dependency;
   public A(B instancedepency){
-    this.dependency=instancedepency;
+    this.dependency = instancedepency;
   }
 }  
 
@@ -28,7 +28,7 @@ public class A {
 public class A {
   private B dependency;
   public setDependecy(B instancedepency){
-    this.dependency=instancedepency;
+    this.dependency = instancedepency;
   }
 }  
 
@@ -71,7 +71,7 @@ public class VehiculoFactory {
 public class A {
   private B dependency;
   public A(B instancedepency){
-    this.dependency=instancedepency;
+    this.dependency = instancedepency;
   }
 }  
 
@@ -79,7 +79,7 @@ public class A {
 public class A {
   private B dependency;
   public setDependecy(B instancedepency){
-    this.dependency=instancedepency;
+    this.dependency = instancedepency;
   }
 }  
 
