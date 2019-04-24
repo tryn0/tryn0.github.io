@@ -9,6 +9,7 @@ hablar sobre lo que se entendió de las inyecciones de dependencias, más concre
 el framework Java Server Faces y SpringFramework.
 Próximamente se tratará un ejemplo que "se dan indicaciones al servidor web" en como realizar la inyección de independencias, signifique lo que signifique eso.
 Otros puntos a tratar son estos:
+
 ```
 - puedes hacer referencia a éstos u otros 'sencillos
 ejemplos'.  
