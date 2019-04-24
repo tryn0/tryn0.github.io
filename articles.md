@@ -6,6 +6,8 @@ title: Artículos
 <div id="articles">
   <h1>Articles</h1>
   <ul class="posts noList">
+    {%raw%}
+    ```
     {% for post in site.posts %}
       <li>
       	<span class="date">{% assign m = post.date | date: "%-m" %}
@@ -29,5 +31,7 @@ title: Artículos
       	<p class="description">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 50 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 50 }}{% endif %}</p>
       </li>
     {% endfor %}
+    ```
+    {%endraw%}
   </ul>
 </div>
