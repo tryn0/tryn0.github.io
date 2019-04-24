@@ -385,7 +385,7 @@ A MORE MODERN SCALE
 http://typecast.com/blog/a-more-modern-scale-for-web-typography
 ***************/
 body {
-  font-size: 1em;
+  font-size: 14px;
   /* equivalent to 16px */
   line-height: 1.45;
   /* equivalent to 20px */ }
@@ -395,7 +395,7 @@ body {
 
 @media (min-width: 43.75em) {
   body {
-    font-size: 1em;
+    font-size: 14;
     /* equivalent to 16px */
     line-height: 1.375;
     /* equivalent to 22px */ } }
@@ -405,49 +405,49 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   font-family: "Open Sans", Helvetica, Arial, sans-serif; }
 
 h1, .h1 {
-  font-size: 2em;
+  font-size: 17px;
   line-height: 1.25; }
 
 @media (min-width: 43.75em) {
   h1, .h1 {
-    font-size: 2.5em;
+    font-size: 18;
     line-height: 1.125; } }
 
 @media (min-width: 56.25em) {
   h1, .h1 {
-    font-size: 3em;
+    font-size: 19px;
     line-height: 1.05; } }
 
 h2, .h2 {
-  font-size: 1.625em;
+  font-size: 16px;
   line-height: 1.15384615; }
 
 @media (min-width: 43.75em) {
   h2, .h2 {
-    font-size: 2em;
+    font-size: 16.5px;
     line-height: 1.25; } }
 
 @media (min-width: 56.25em) {
   h2, .h2 {
-    font-size: 2.25em;
+    font-size: 16.75px;
     line-height: 1.25; } }
 
 h3, .h3 {
-  font-size: 1.375em;
+  font-size: 15;
   line-height: 1.13636364; }
 
 @media (min-width: 43.75em) {
   h3, .h3 {
-    font-size: 1.5em;
+    font-size: 15.5;
     line-height: 1.25; } }
 
 @media (min-width: 56.25em) {
   h3, .h3 {
-    font-size: 1.75em;
+    font-size: 15.75;
     line-height: 1.25; } }
 
 h4, .h4 {
-  font-size: 1.125em;
+  font-size: 14;
   line-height: 1.11111111; }
 
 @media (min-width: 43.75em) {
