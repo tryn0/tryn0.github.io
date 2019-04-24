@@ -7,8 +7,8 @@ title: Contactar
   <h1 class="pageTitle">Contactar</h1>
   <div class="contactContent">
     <p class="intro">El código de esta página se encuentra en el archivo <code>contact.html</code>.</p>
-    <p>Si quieres visitar mi página de <a href="http://github.com/tryn0/">github.</a> Sigueme.</p>
-    <p>El correo aun no está disponible <a href="mailto:correo@correo.es">correo</a></p>
+    <p>Si quieres visitame y suígueme en mi página de <a href="http://github.com/tryn0/">github.</a></p>
+    
   </div>
   <form method="POST" action="https://formspree.io/vkae@live.com">
     <label for="name">Nombre</label>
