@@ -5,7 +5,7 @@ title: Acerca
 
 <div class="post">
 	<h1 class="pageTitle">Acerca</h1>
-	<img src="{{ '/assets/img/avatar.png' | prepend: site.baseurl }}" alt=""/><p class="intro">En esta sección hablaré un poco sobre mi.</p>
+	<img src="{{ '/assets/img/avatar.png' | prepend: site.baseurl }}" alt="" align="center"/><p class="intro">En esta sección hablaré un poco sobre mi.</p>
 	<p>Estudiante de DAW en el IES Polígono Sur, aprendiendo <a href="http://jekyllrb.com">Jekyll</a> Hay muchos temas y layouts por internet, puede modificarse a su antojo.</p>
 	<p>Este tema se llama Long Haul</p>
 	<br/>
