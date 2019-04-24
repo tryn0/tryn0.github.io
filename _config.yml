@@ -1,12 +1,15 @@
 title: Blog
-description: Blog de tryn0
+description: Blog personal tryn0
 
 url: http://github.com/tryn0
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
-markdown: markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
 highlighter: rouge
 plugins: [jekyll-paginate]
 paginate: 5
