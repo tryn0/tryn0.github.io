@@ -1,6 +1,7 @@
-# Web ED
-Para crear esta página web escogí un tema, se llama Long Haul, a través de él modifique el contenido, las plantillas que se crean con jekyll, imágenes, icono de la pestaña, etc.  
-## Uso
-Su uso será como página web/blog personal, también es trabajo de módulo entornos de desarrollo.  
+# Web personal ED
+Para crear esta página web escogí el tema llamado Long Haul, a través de él modifique mucho contenido para adecuarlo para mi estilo y para mí, esta web se crea a través de enlazamientos de plantillas, explicándolo de otra forma,lo que hacen las plantillas es crear la github-page enlazándose entre sí, como en una cadena de montaje.
 
-&copy;
+## Uso
+Se usará como página web personal, blog, etc, lo iré actualzando poco a poco.
+
+&copy; tryn0
