@@ -11,9 +11,12 @@ title: Contactar
     <p>El correo aun no está disponible <a href="mailto:correo@correo.es">correo</a></p>
   </div>
   <form method="POST" action="https://formspree.io/vkae@live.com">
-    <input type="name" name="name" placeholder="Tu numbre">
-    <input type="email" name="email" placeholder="Tu email">
-    <textarea name="mensaje" placeholder="Texto"></textarea>
-	  <button type="submit">Envíar</button>
+  <label for="name">Nombre</label>
+  <input type="text" id="name" name="name" class="full-width"><br>
+  <label for="email">Correo electrónico</label>
+  <input type="email" id="email" name="_replyto" class="full-width"><br>
+  <label for="message">Mensaje</label>
+  <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea><br>
+  <input type="submit" value="Envíar" class="button">
 </form>
 </div>
