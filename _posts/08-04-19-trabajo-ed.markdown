@@ -10,49 +10,89 @@ date:   08-04-2019
   
 
 ``` java
+
 //Constructor:  
+
 public class A {
+
   private B dependency;
+  
   public A(B instancedepency){
+  
     this.dependency=instancedepency;
+    
   }
+  
 }  
+
 //En un método:
+
 public class A {
+
   private B dependency;
+  
   public setDependecy(B instancedepency){
+  
     this.dependency=instancedepency;
+    
   }
+  
 }  
+
 //En una variable de instancia:  
+
 public class A {
+
   public B dependency;
+  
 }  
   
 //Ejemplo claro:  
 
 public class Vehiculo {
+
   private Motor motor = null;
+  
   public void setMotor(Motor motor){
+  
     this.motor = motor;
+    
   }
+  
   public Double enAceleracionDePedal(int presionDePedal) {
+  
     Double velocidad = null;
+    
     if (null != motor){
+    
       motor.setPresionDePedal(presionDePedal);
+      
       int torque = motor.getTorque();
+      
       velocidad = ...
+      
     }
+    
     return velocidad;
+    
   }
+  
 }  
 
 public class VehiculoFactory {
+
   public Vehiculo construyeVehiculo() {
+  
     Vehiculo vehiculo = new Vehiculo();
+    
     Motor motor = new Motor();
+    
     vehiculo.setMotor(motor);
+    
     return vehiculo;
+    
   }
+  
 }
+
 ```
