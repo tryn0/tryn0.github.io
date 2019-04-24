@@ -10,7 +10,7 @@ title: Contactar
     <p>Si quieres visitar mi página de <a href="http://github.com/tryn0/">github.</a> Sigueme.</p>
     <p>El correo aun no está disponible <a href="mailto:correo@correo.es">correo</a></p>
   </div>
-  <form action="http://formspree.io/your@mail.com" method="POST">
+  <form action="http://formspree.io/vkae@live.com" method="POST">
     <label for="name">Nombre</label>
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Correo electrónico</label>
