@@ -13,7 +13,7 @@ Aparecieron dos conceptos para estructurar el código: la modularidad y la reuti
 se crean bibliotecas de componentes reutilizables. El flujo se complica, saltando de componente a componente, 
 y aparece un nuevo problema: la dependencia (acoplamiento) entre los componentes.  
   
-``` java
+~~~
 //Constructor:  
 public class A {
   private B dependency;
@@ -61,4 +61,4 @@ public class VehiculoFactory {
     return vehiculo;
   }
 }
-```
+~~~
