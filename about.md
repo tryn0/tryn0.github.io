@@ -17,7 +17,7 @@ title: Acerca
 	<h2>Características</h2>
 	<ul>
 		<li>Hecho con SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
-  		<li>Iconos de redes sociales SVG de <a href="http://customizr.net/icons/">aquí</a></li>
+  		<li>Iconos de redes sociales formato SVG</li>
   		<li><a href="http://responsive-nav.com/">Menú Responsive Nav</a></li>
   		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">Feed XML para lector RSS</a></li>
   	</ul>
