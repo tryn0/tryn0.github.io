@@ -6,7 +6,7 @@ title: Acerca
 <div class="post">
 	<h1 class="pageTitle">Acerca</h1>
 	<center>
-		<img src="{{ '/assets/img/avatar.png' | prepend: site.baseurl }}" alt="" />
+		<img src="{{ '/assets/img/avatar.png' | prepend: site.baseurl }}" alt="avatar-tryn0"/>
 	</center>
 	<p class="intro">En esta sección hablaré un poco sobre mi.</p>
 	<p>Estudiante de DAW en el IES Polígono Sur, aprendiendo <a href="http://jekyllrb.com">Jekyll</a>y más.<br>
