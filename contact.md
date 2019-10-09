@@ -8,7 +8,7 @@ title: Contactar
   <div class="contactContent">
     <p class="intro">En esta sección podéis contactar conmigo, podéis enviarme un correo gracias a esta sección.</p>
     <p>Recuerda que aún sigo con el aprendizaje de Desarrollo de Aplicaciones Web y desarrollando páginas web.<br>
-    Si quieres visitarme y seguirme entra en mi página de <a href="http://github.com/tryn0/">github.</a>, ahí tengo gran parte de los trabajos/repositorios hechos hasta la fecha.</p>
+    Si quieres visitarme y seguirme entra en mi página de <a href="http://github.com/tryn0/">github</a>, ahí tengo gran parte de los trabajos/repositorios hechos hasta la fecha.</p>
     
   </div>
   <form method="POST" action="https://formspree.io/vkae@live.com">
