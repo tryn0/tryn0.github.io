@@ -6,9 +6,9 @@ title: Contactar
 <div id="contact">
   <h1 class="pageTitle">Contactar</h1>
   <div class="contactContent">
-    <p class="intro">En esta sección podéis contactar conmigo, podéis enviarme un correo gracias a esta sección.<br>
-    Recuerda que aún sigo con el aprendizaje de Desarrollo de Aplicaciones Web y desarrollando páginas web.</p>
-    <p>Si quieres visitarme y seguirme entra en mi página de <a href="http://github.com/tryn0/">github.</a>, ahí tengo gran parte de los trabajos/repositorios hechos hasta la fecha.</p>
+    <p class="intro">En esta sección podéis contactar conmigo, podéis enviarme un correo gracias a esta sección.</p>
+    <p>Recuerda que aún sigo con el aprendizaje de Desarrollo de Aplicaciones Web y desarrollando páginas web.<br>
+    Si quieres visitarme y seguirme entra en mi página de <a href="http://github.com/tryn0/">github.</a>, ahí tengo gran parte de los trabajos/repositorios hechos hasta la fecha.</p>
     
   </div>
   <form method="POST" action="https://formspree.io/vkae@live.com">
