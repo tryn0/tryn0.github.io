@@ -24,7 +24,7 @@ layout: default
           {% when '11' %}Noviembre
           {% when '12' %}Diciembre
         {% endcase %}
-        {{ page.date | date: "de %Y" }} | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</p>
+        {{ page.date | date: "de %Y" }} | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> minuto(s) de lectura</p>
   
   {{ content }}
 
