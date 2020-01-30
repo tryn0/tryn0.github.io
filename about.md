@@ -9,7 +9,7 @@ title: Acerca
 		<img src="{{ '/assets/img/avatar.png' | prepend: site.baseurl }}" alt="avatar-tryn0"/>
 	</center>
 	<p class="intro">En esta sección hablaré un poco sobre mi.</p>
-	<p>Estudiante de DAW en el IES Polígono Sur, aprendiendo <a href="http://jekyllrb.com">Jekyll</a>y más.<br>
+	<p>Estudiante de DAW en el IES Polígono Sur, aprendiendo <a href="http://jekyllrb.com">Jekyll</a> y más.<br>
 	Hay muchos temas y layouts por internet, puede modificarse a su antojo.</p>
 	<p>Este tema se llama Long Haul, lo descargué y modifiqué muchas cosas, traducción, mejoras hacia mi estilo, etc.</p>
 	<br>
